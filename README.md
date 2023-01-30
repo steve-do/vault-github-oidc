@@ -62,7 +62,7 @@ Follow the step-by-step instructions in the new repository's README.
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Introduction to OIDC</h2></summary>
 
 _Welcome to "Getting secrets from HashiCorp Vault with GitHub OIDC in Action workflows!" :wave:_
@@ -120,7 +120,7 @@ We will go over the details in the next step.
   TBD-step-2-notes.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Fine-grained permissions - pull requests</h2></summary>
 
 _You successfully authenticated and retrieved a Vault secret using GitHub OIDC! :tada:_
