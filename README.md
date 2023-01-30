@@ -34,7 +34,7 @@ Understand the principles behind configuring OIDC authentication from GitHub Act
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Step 0: How to start this course</h2></summary>
 
 1. Make sure you are signed in to GitHub.
@@ -62,7 +62,7 @@ Follow the step-by-step instructions in the new repository's README.
   TBD-step-1-notes.
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Introduction to OIDC</h2></summary>
 
 _Welcome to "Getting secrets from HashiCorp Vault with GitHub OIDC in Action workflows!" :wave:_
